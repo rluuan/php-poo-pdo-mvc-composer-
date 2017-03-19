@@ -1,0 +1,18 @@
+body{
+	background: linear-gradient(to right,white,#ddf9ff,white) !important;
+}
+.mdl-layout {
+	align-items: center;
+	justify-content: center;
+}
+.mdl-layout__content {
+	padding: 24px;
+	flex: none;
+}
+.mdl-color--grey-100{
+	background: linear-gradient(to right,white,#ddf9ff,white) !important;
+}
+h1{
+	text-shadow: 1px 1px 10px #707070;
+	font-family: 'Cookie', cursive;
+}
